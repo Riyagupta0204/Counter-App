@@ -1,6 +1,10 @@
 # Counter-App
 # This React application is a simple increment and decrement counter
-Main App Component
+# Main App Component:
+ State Management
+ Click Handlers
+ Rendered JSX
+
 # State Management:
 
 Utilizes the useState hook to manage the count state, initialized to 0.

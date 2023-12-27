@@ -2,7 +2,9 @@
 # This React application is a simple increment and decrement counter
 # Main App Component:
  State Management
+ 
  Click Handlers
+ 
  Rendered JSX
 
 # State Management:

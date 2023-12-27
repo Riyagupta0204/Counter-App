@@ -1,0 +1,45 @@
+.App{
+   background-color: azure;
+}
+.Appp{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-top: 10px;
+  gap:10px
+}
+.head{
+  justify-content:center;
+  align-items: center;
+  text-align: center;
+  margin-top: 300px;
+  color: rgb(6, 119, 185);
+}
+
+.resett{
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+}
+.bt1{
+   color: white;
+   background-color: rgb(6, 119, 185);
+   border: 0px;
+   padding: 10 10 10 10 ;
+}
+.bt2{
+  color: white;
+  background-color: rgb(6, 119, 185);
+  border: 0px;
+  padding: 10 10 10 10 ;
+}
+.bt3{
+  color: white;
+  background-color: rgb(6, 119, 185);
+  border: 0px;
+  padding: 10 10 10 10 ;
+}
+.val{
+  font-weight: 500;
+  font-size: large;
+}
